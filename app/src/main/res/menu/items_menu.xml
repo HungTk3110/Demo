@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/man1"
+        android:icon="@drawable/ic_baseline_brightness_2_24"
+        android:title="@string/man1" />
+
+    <item
+        android:id="@+id/man2"
+        android:icon="@drawable/ic_baseline_brightness_low_24"
+        android:title="@string/man2" />
+
+    <item
+        android:id="@+id/man3"
+        android:icon="@drawable/ic_baseline_brightness_4_24"
+        android:title="@string/man3" />
+</menu>
